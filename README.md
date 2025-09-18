@@ -40,7 +40,9 @@ Social-Media-Usage-Duration/
    git clone https://github.com/Jyotsna2409/Social-Media-Usage-Duration.git
    cd Social-Media-Usage-Duration
 2. Install required libraries:
-pip install -r requirements.txt
-3. Run the Streamlit app:
-streamlit run app.py
-4. Open browser at http://localhost:8501 and input age & likes to see predictions.
+   ```bash
+   pip install -r requirements.txt
+4. Run the Streamlit app:
+   ```bash
+   streamlit run app.py
+6. Open browser at http://localhost:8501 and input age & likes to see predictions.
