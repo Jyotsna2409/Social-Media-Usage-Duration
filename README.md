@@ -20,20 +20,6 @@ It was developed as part of my coursework in Machine Learning and deployed with 
 
 ---
 
-## 📂 Repository Structure
-Social-Media-Usage-Duration/
-├── data/
-│ └── social-media.csv # Dataset
-├── models/
-│ ├── best_linear_regression_model.pkl
-│ └── data_scalar.pkl
-├── ml_assignment.ipynb # Model training and evaluation
-├── app.py # Streamlit application
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
-
----
-
 ## ⚙️ Installation & Usage
 1. Clone this repository:
    ```bash
